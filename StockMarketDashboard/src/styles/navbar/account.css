@@ -1,0 +1,15 @@
+.account {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: row;
+  width: 30%;
+  height: 3.5rem;
+}
+
+.notif--store {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 50%;
+}

@@ -2,7 +2,8 @@
   display: flex;
   flex-direction: column;
   height: 100%;
-  width: 13rem;
+  width: 15rem;
+  min-width: 15rem;
   max-width: 40rem;
   background-color: #ffffff;
   border-radius: 10px;
