@@ -1,0 +1,36 @@
+.total--profit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: black;
+  height: 5rem;
+  width: 90%;
+  border-radius: 0.8rem;
+  color: #fff;
+}
+
+.total--investment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 1rem 0;
+}
+
+.percentage {
+  padding: 0 1rem 0 0;
+  color: #36bb48;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 0.6rem;
+  padding: 0.3rem 0 0 1rem;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0 0 0 0.5rem;
+}

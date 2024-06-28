@@ -1,0 +1,19 @@
+.top--container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 2.5rem;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.625rem;
+  margin-top: 1rem;
+}
+
+.logo--svg {
+  height: 1.2rem;
+  padding: 0.4rem;
+}

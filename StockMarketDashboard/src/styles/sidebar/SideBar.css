@@ -1,0 +1,11 @@
+.side--menu {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 13rem;
+  max-width: 40rem;
+  background-color: #ffffff;
+  border-radius: 10px;
+  align-items: center;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 20px 20px 0px;
+}
